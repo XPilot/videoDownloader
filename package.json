@@ -1,0 +1,23 @@
+{
+  "name": "treehouseHeroku",
+  "version": "0.0.0",
+  "description": "download videos from treehouse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakhouT/videoDownloader.git"
+  },
+  "author": "Nabil Makhout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakhouT/videoDownloader/issues"
+  },
+  "homepage": "https://github.com/MakhouT/videoDownloader",
+  "dependencies": {
+    "socket.io": "~1.3.5"
+  }
+}
